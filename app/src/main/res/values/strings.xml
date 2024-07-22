@@ -20,4 +20,25 @@
     <string name="zero">0</string>
     <string name="dot">.</string>
     <string name="equals">=</string>
+    <string name="category">Category</string>
+    <string name="explore_the_nightlife_of_your_city">Explore the nightlife of your city</string>
+    <string name="participants">Participants</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="next">Next</string>
+    <string name="label">label</string>
+    <string name="price">Price</string>
+    <string name="price2">Price💰</string>
+    <string name="free">free</string>
+
+    <string-array name="Type">
+        <item>Type</item>
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+    </string-array>
+
+    <array name="initial_slider_values">
+        <item>20.0</item>
+        <item>70.0</item>
+    </array>
 </resources>
